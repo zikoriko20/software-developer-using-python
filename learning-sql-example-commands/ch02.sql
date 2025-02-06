@@ -118,3 +118,5 @@ UPDATE person
 UPDATE person
   SET birth_date = 'DEC-21-1980'
   WHERE person_id = 1;
+
+/* Failed statement */
