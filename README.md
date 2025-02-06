@@ -16,9 +16,11 @@
 
 ## Additional Software
 
-[sqlite]
-
 [Visual-Studio-Code-Installation]
+
+[git]
+
+[sqlite]
 
 [docker]
 
@@ -31,5 +33,6 @@
 [python]: <https://www.python.org/>
 
 [Visual-Studio-Code-Installation]: <https://code.visualstudio.com/>
+[git]: <https://git-scm.com/>
 [sqlite]: <https://www.sqlite.org/index.html>
 [docker]: <https://www.docker.com/get-started/>
