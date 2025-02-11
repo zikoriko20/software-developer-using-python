@@ -14,6 +14,8 @@
 
 [python]
 
+[azure_labs]
+
 ## Additional Software
 
 [Visual-Studio-Code-Installation]
@@ -36,3 +38,5 @@
 [git]: <https://git-scm.com/>
 [sqlite]: <https://www.sqlite.org/index.html>
 [docker]: <https://www.docker.com/get-started/>
+
+[azure_labes]: <https://labs.azure.com/virtualmachines>

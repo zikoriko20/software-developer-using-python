@@ -1,0 +1,26 @@
+   In order to run the mysql examples from the book you need to run the mysqlsh
+utitity in either the "cmd" or "windows power shell" window. Once the window is
+open type "mysqlsh" which will take over the window.
+
+   Once the "mysqlsh" shell is running issue the following commands to create
+  the same environment that is shown in the book. 
+
+\connect root@localhost:3306
+
+   This connection will prompt you for login credentials that you should have
+created during the installation. Once connected you will need to change the
+mode back to the sql which is the mode that the book uses with the command
+below.
+
+\sql
+
+
+   For the examples in the book you must use the sakila database which is not
+  connected by default. You must issue the command below to start using this
+  database.
+
+use sakila 
+
+\connect root@localhost:3306
+\sql
+use sakila 
