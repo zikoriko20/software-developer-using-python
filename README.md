@@ -6,6 +6,8 @@
 
 [oreilly-books]
 
+### SQL
+
 [Class_01_SQL_Software_Developer_Using_Python]
 
 [SQL_Study_Guide]
@@ -23,6 +25,14 @@
 [MySQL_revoke_permission_documentation]
 
 [photo_of_first_look_at_ssn_database]
+
+### Python
+
+[Combined_Unit1_Presentation]
+
+O'Reilly Book Resource
+
+The Python Workshop - Second Edition
 
 ## Class Software
 
@@ -67,3 +77,5 @@
 [MySQL_using_roles_documentation]: <https://dev.mysql.com/doc/refman/8.4/en/roles.html>
 
 [photo_of_first_look_at_ssn_database]: <https://photos.app.goo.gl/Q4Q94ubYdtNwHCz18>
+
+[Combined_Unit1_Presentation]: <https://docs.google.com/presentation/d/1NeHGaCcHj7SnTFgTLkxwg4HA-Zl3WBOj/edit?usp=drive_link&ouid=104706725336537073694&rtpof=true&sd=true>
