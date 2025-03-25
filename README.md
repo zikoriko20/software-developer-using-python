@@ -24,6 +24,10 @@
 
 [MySQL_revoke_permission_documentation]
 
+[joins_are_easy]
+
+[joins_explained]
+
 [photo_of_first_look_at_ssn_database]
 
 ### Python
@@ -79,3 +83,6 @@ The Python Workshop - Second Edition
 [photo_of_first_look_at_ssn_database]: <https://photos.app.goo.gl/Q4Q94ubYdtNwHCz18>
 
 [Combined_Unit1_Presentation]: <https://docs.google.com/presentation/d/1NeHGaCcHj7SnTFgTLkxwg4HA-Zl3WBOj/edit?usp=drive_link&ouid=104706725336537073694&rtpof=true&sd=true>
+
+[joins_are_easy]: <https://www.youtube.com/watch?v=G3lJAxg1cy8>
+[joins_explained]: <https://www.youtube.com/watch?v=9yeOJ0ZMUYw>
