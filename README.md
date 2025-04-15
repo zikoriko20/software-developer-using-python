@@ -86,3 +86,4 @@ The Python Workshop - Second Edition
 
 [joins_are_easy]: <https://www.youtube.com/watch?v=G3lJAxg1cy8>
 [joins_explained]: <https://www.youtube.com/watch?v=9yeOJ0ZMUYw>
+[google]: <https://www.google.com/
