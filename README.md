@@ -56,6 +56,8 @@ The Python Workshop - Second Edition
 
 [docker]
 
+[google]
+
 
 [class-syllabus]: <https://docs.google.com/spreadsheets/d/1Kii5k4RJ-xTptbtsMGHxB4utNAKFqrJx/edit?usp=sharing&ouid=104706725336537073694&rtpof=true&sd=true>
 [oreilly-books]: <https://learning.oreilly.com/home/>
@@ -86,3 +88,4 @@ The Python Workshop - Second Edition
 
 [joins_are_easy]: <https://www.youtube.com/watch?v=G3lJAxg1cy8>
 [joins_explained]: <https://www.youtube.com/watch?v=9yeOJ0ZMUYw>
+[google]: <https://google.com>
