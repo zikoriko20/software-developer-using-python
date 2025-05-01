@@ -6,7 +6,7 @@ WINDOW = 400
 def main():
     screen = pg.display.set_mode((WINDOW, WINDOW))
     clock = pg.time.Clock()
-    pg.display.set_caption("Snake Game")
+    pg.display.set_caption("Zakaria snake game")
     snake = [(5, 5), (5, 6), (5, 7)]
     direction = (1, 0)
     apple = (randrange(0, WINDOW // 10), randrange(0, WINDOW // 10))
